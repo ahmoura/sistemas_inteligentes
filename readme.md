@@ -3,6 +3,8 @@
 Esse repositório está destinado ao compilado de todo meu estudo teórico e prático.
 A medida que o material seja colocado aqui, o sumário será atualizado.
 O path do sumário é referente a uma imagem [ADICIONAR LINK] referente aos estudos de ciência de dados.
+Esse material está em periodo de desenvolvimento e não possui as devidas referências.
+Em caso de erros (de código ou português) por favor, sinalize-os.
 
 ## Sumário
 
@@ -30,7 +32,7 @@ O path do sumário é referente a uma imagem [ADICIONAR LINK] referente aos estu
 3. Programação:
 
 4. Aprendizado de Máquina:
-    1. [ ] O que é aprendizado de máquina?
+    1. [x] O que é aprendizado de máquina?
     2. [ ] Variáveis numéricas.
     3. [ ] Variáveis categóricas.
     4. [ ] Aprendizado supervisionado.
